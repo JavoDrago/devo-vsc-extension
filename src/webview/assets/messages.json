@@ -1,0 +1,228 @@
+{
+  "messages": [
+    {
+      "type": "typing",
+      "text": "🔥 Productividad máxima."
+    },
+    {
+      "type": "typing",
+      "text": "⚡ Otra línea más."
+    },
+    {
+      "type": "typing",
+      "text": "💻 El código fluye."
+    },
+    {
+      "type": "typing",
+      "text": "🚀 Vamos bien."
+    },
+    {
+      "type": "typing",
+      "text": "🧠 Modo concentración."
+    },
+    {
+      "type": "typing",
+      "text": "⌨️ Click click click..."
+    },
+    {
+      "type": "typing",
+      "text": "✨ Buen ritmo."
+    },
+    {
+      "type": "typing",
+      "text": "📈 XP aumentando."
+    },
+
+    {
+      "type": "idle",
+      "text": "😴 Muy silencioso..."
+    },
+    {
+      "type": "idle",
+      "text": "☕ Hora del café?"
+    },
+    {
+      "type": "idle",
+      "text": "🪫 Sin actividad..."
+    },
+    {
+      "type": "idle",
+      "text": "👀 Sigues ahí?"
+    },
+    {
+      "type": "idle",
+      "text": "💤 Esperando código..."
+    },
+    {
+      "type": "idle",
+      "text": "🌙 Descanso temporal."
+    },
+
+    {
+      "type": "errors",
+      "text": "🚨 Los bugs regresaron."
+    },
+    {
+      "type": "errors",
+      "text": "😵 Eso no compiló."
+    },
+    {
+      "type": "errors",
+      "text": "💥 Error detectado."
+    },
+    {
+      "type": "errors",
+      "text": "🐛 Bug spotted."
+    },
+    {
+      "type": "errors",
+      "text": "⚠️ Algo salió mal."
+    },
+    {
+      "type": "errors",
+      "text": "🔥 El debugger nos necesita."
+    },
+
+    {
+      "type": "levelup",
+      "text": "🎉 LEVEL UP!"
+    },
+    {
+      "type": "levelup",
+      "text": "✨ Nuevo nivel desbloqueado."
+    },
+    {
+      "type": "levelup",
+      "text": "🏆 Seguimos creciendo."
+    },
+    {
+      "type": "levelup",
+      "text": "⚡ Más poder desbloqueado."
+    },
+    {
+      "type": "levelup",
+      "text": "🚀 Desarrollo exitoso."
+    },
+
+    {
+      "type": "shop",
+      "text": "🪑 Nueva adquisición."
+    },
+    {
+      "type": "shop",
+      "text": "🛒 Objeto desbloqueado."
+    },
+    {
+      "type": "shop",
+      "text": "✨ El setup mejora."
+    },
+    {
+      "type": "shop",
+      "text": "💡 Buena elección."
+    },
+    {
+      "type": "shop",
+      "text": "🖥️ Tu habitación evoluciona."
+    },
+
+    {
+      "type": "mood",
+      "text": "😎 Todo bajo control."
+    },
+    {
+      "type": "mood",
+      "text": "🤖 Modo developer."
+    },
+    {
+      "type": "mood",
+      "text": "🧃 Energía estable."
+    },
+    {
+      "type": "mood",
+      "text": "🌟 Buen ambiente."
+    },
+    {
+      "type": "mood",
+      "text": "🎧 Concentración máxima."
+    },
+    {
+      "type": "mood",
+      "text": "😌 Todo tranquilo."
+    },
+
+    {
+      "type": "tips",
+      "text": "💡 Guarda cambios seguido."
+    },
+    {
+      "type": "tips",
+      "text": "🧠 Código limpio primero."
+    },
+    {
+      "type": "tips",
+      "text": "📦 Haz commits pequeños."
+    },
+    {
+      "type": "tips",
+      "text": "🔍 Lee el error completo."
+    },
+    {
+      "type": "tips",
+      "text": "⚙️ Automatiza lo repetitivo."
+    },
+    {
+      "type": "tips",
+      "text": "🪄 Menos código, menos bugs."
+    },
+
+    {
+      "type": "rare",
+      "text": "👁️ El código nos observa."
+    },
+    {
+      "type": "rare",
+      "text": "🌌 Algo vibra en el servidor..."
+    },
+    {
+      "type": "rare",
+      "text": "🤖 0101010101"
+    },
+    {
+      "type": "rare",
+      "text": "🛰️ Señal detectada."
+    },
+    {
+      "type": "rare",
+      "text": "🧿 El compilador ha despertado."
+    },
+    {
+      "type": "rare",
+      "text": "📡 Transmisión desconocida..."
+    },
+
+    {
+      "type": "general",
+      "text": "🎮 Seguimos construyendo."
+    },
+    {
+      "type": "general",
+      "text": "🌆 La habitación cobra vida."
+    },
+    {
+      "type": "general",
+      "text": "🕹️ Pixel vibes."
+    },
+    {
+      "type": "general",
+      "text": "💻 Developer life."
+    },
+    {
+      "type": "general",
+      "text": "🌃 Noches de código."
+    },
+    {
+      "type": "general",
+      "text": "⚡ Neon energy."
+    }
+  ]
+}

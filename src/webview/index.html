@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Devo Room</title>
+  <link rel="stylesheet" href="styles.css" />
+</head>
+<body>
+  <div id="welcome-overlay">
+    <h1>DEVO</h1>
+    <p class="subtitle">your coding companion</p>
+    <label for="name-input">name your companion</label>
+    <input id="name-input" type="text" maxlength="16" placeholder="..." autofocus />
+    <button id="start-btn">start</button>
+    <p class="hint">it grows as you code</p>
+  </div>
+
+  <div id="shop-overlay" class="hidden">
+    <div class="shop-header">
+      <h2>SHOP</h2>
+      <button id="shop-close">x</button>
+    </div>
+    <div class="shop-tabs">
+      <button class="shop-tab active" data-cat="all">All</button>
+      <button class="shop-tab" data-cat="furniture">Furniture</button>
+      <button class="shop-tab" data-cat="decoration">Decor</button>
+      <button class="shop-tab" data-cat="special">Special</button>
+    </div>
+    <div id="shop-error" class="shop-error hidden"></div>
+    <div id="shop-items" class="shop-items"></div>
+  </div>
+
+  <div id="game-container"></div>
+
+  <div id="items-toolbar" class="hidden">
+    <div class="toolbar-row">
+      <select id="items-dropdown"></select>
+      <button id="place-item-btn">+ Place</button>
+      <button id="save-layout-btn">Save</button>
+      <button id="reset-layout-btn">Reset</button>
+    </div>
+    <div id="placed-items-section">
+      <div id="placed-items-header">
+        <span id="placed-items-toggle">&#9660;</span>
+        <span id="placed-items-label">Placed Items</span>
+        <span id="placed-items-count">(0)</span>
+      </div>
+      <div id="placed-items"></div>
+    </div>
+  </div>
+  <div id="reset-btn" class="hidden">RESET</div>
+
+  <div id="shop-btn" class="hidden">SHOP</div>
+  <script type="module" src="../game/main.ts"></script>
+</body>
+</html>

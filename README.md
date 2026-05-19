@@ -3,7 +3,8 @@
 A Habbo-inspired cyberpunk incremental game inside VS Code.  
 Devo lives in your editor panel, grows as you code, and turns your workspace into a pixel-art room to customize.
 
-![Devo screenshot](https://raw.githubusercontent.com/JavoDrago/devo-vsc-extension/image.png)
+<img width="349" height="395" alt="image" src="https://github.com/user-attachments/assets/96cfb30a-cc0f-459a-ac6f-a4c3d6215931" />
+
 
 ## Features
 
